@@ -1,5 +1,7 @@
 ## Hello! I`m Igor Stinieski Favin
 
+- I’m interested in create and learn with everyone
+- Now I'm studying C++ to learn the basics of programming.
 - 📫 How you can reach me: 
 # <a href="https://www.linkedin.com/in/igor-stinieski-favin-423829147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div align="left">
