@@ -5,6 +5,6 @@
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfavin&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
-<div align="right">
+<div align="right" float="right">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorfavin&show_icons=true&theme=radical)"/>
 </div>
