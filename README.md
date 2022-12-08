@@ -13,3 +13,6 @@
   <a href="https://github.com/igorfavin">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorfavin&show_icons=true&theme=radical)"/>
 </div>
+  
+  
+  https://github-readme-stats.vercel.app/api/top-langs/?username=igorfavin&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
