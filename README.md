@@ -15,6 +15,6 @@
 </div>
 
 
-<a href="https://github.com/igorfavin/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfavin&repo=github-readme-stats" />
 </a>
