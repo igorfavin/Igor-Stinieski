@@ -11,5 +11,5 @@
 </div>
 <div align="left">
   <a href="https://github.com/igorfavin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorfavin&show_icons=true&theme=radical)"/>
+  <img height="150em" src="https://igorfavin.vercel.app/api?username=igorfavin&show_icons=true&theme=radical)"/>
 </div>
